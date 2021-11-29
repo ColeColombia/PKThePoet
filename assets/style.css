@@ -143,6 +143,18 @@ body{
         }
       }
 
+      .btn-primary {
+        color: #fff;
+        background-color: #64a19d;
+        border-color: #64a19d;
+      }
+
+      .btn-primary:hover {
+        color: #fff;
+        background-color: #558985;
+        border-color: #50817e;
+      }
+
       .about-section {
         padding-top: 10rem;
         background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
